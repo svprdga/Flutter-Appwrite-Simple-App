@@ -13,7 +13,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'AppWrite Demo',
+      title: 'Appwrite Demo',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -55,7 +55,7 @@ class _MainScreenState extends State<MainScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('AppWrite Demo'),
+        title: const Text('Appwrite Demo'),
       ),
       body: FutureBuilder(
         future: _future,
