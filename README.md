@@ -1,16 +1,7 @@
-# flutter_appwrite_simple_app
+# Flutter + Appwrite: Free and Open Source Firebase alternative
 
-A new Flutter project.
+This project is a simple Flutter app to show how to interact with a database and a bucket in Appwrite.
 
-## Getting Started
+Related video on [Youtube](https://youtu.be/68363LJlYF0) and [Odysee](https://odysee.com/@svprdga:d/flutter-appwrite-free-and-open-source-firebase-alternative).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you are interested visit my [blog](https://davidserrano.io/) to see other tutorials and articles related to mobile programming.
